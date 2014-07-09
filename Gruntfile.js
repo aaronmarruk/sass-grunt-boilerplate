@@ -10,7 +10,7 @@ module.exports = function(grunt) {
         files: ['**/*.scss'],
         tasks: ['compass:dev'],
         options: {
-          spawn: false,
+          spawn: false
         }
       },
       js: {
@@ -53,7 +53,7 @@ module.exports = function(grunt) {
           'javascripts/main.js'
           ]
         }
-      },
+      }
     }
   });
 

@@ -1,5 +1,4 @@
 {
-  // change your project "name" here
   "name": "sass-grunt-boilerplate",
   "version": "1.0.0",
   "devDependencies": {
